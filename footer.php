@@ -3,7 +3,7 @@
 /**
  * The template for displaying the footer test
  */
-
+// Test 8
 $post_option = infinite_get_post_option(get_the_ID());
 if (empty($post_option['enable-footer']) || $post_option['enable-footer'] == 'default') {
 	$enable_footer = infinite_get_option('general', 'enable-footer', 'enable');
