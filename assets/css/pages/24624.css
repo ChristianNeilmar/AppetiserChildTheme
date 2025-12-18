@@ -1,0 +1,166 @@
+.gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-title a {
+    font-size: 24px;
+    letter-spacing: 0;
+    padding: 80px 0;
+    object-fit: contain;
+}
+
+/* This code is from customise.css */
+/*new portfolio*/
+.page-id-24624 .infinite-header-background-transparent {
+    background: #000 !important;
+}
+
+.page-id-24624 .infinite-header-background {
+    background: #000 !important;
+}
+
+.page-id-24624 .menu-item-2401 {
+    background: transparent !important;
+    border: none !important
+}
+
+.page-id-24624 .menu-item-2401 a {
+    background: transparent;
+    color: #fff !important
+}
+
+.page-id-24624 .menu-item-2371 a {
+    background: linear-gradient(270.51deg, #36d5d7 -16.02%, #3c58c7 86.92%);
+    border: none;
+    border-radius: 100px;
+    box-shadow: 0 15px 50px rgba(20, 0, 255, .22)
+}
+
+.page-id-24624 .infinite-mobile-button-hamburger:before,
+.page-id-24624 .infinite-mobile-button-hamburger:after,
+.page-id-24624 .infinite-mobile-button-hamburger span,
+.page-id-24624 .infinite-mobile-button-hamburger-small:before,
+.page-id-24624 .infinite-mobile-button-hamburger-small:after,
+.page-id-24624 .infinite-mobile-button-hamburger-small span {
+    background: #fff;
+}
+
+.page-id-24624 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon {
+    display: none !important;
+}
+
+.page-id-24624 .subtitle-container .gdlr-core-text-box-item-content {
+    letter-spacing: -.5px
+}
+
+.page-id-24624 .featured-section .banner-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 1300px
+}
+
+.page-id-24624 .mixit-section {
+    background: #efeff3
+}
+
+.page-id-24624 .appetiser-portfolio-wrapper .gdlr-core-filterer-wrap.gdlr-core-style-button a {
+    background: #f5f5f5;
+    border-radius: 8px;
+    margin: 2.5px 5px
+}
+
+.page-id-24624 .appetiser-portfolio-wrapper a.gdlr-core-load-more.gdlr-core-button-color {
+    border-radius: 106px;
+    box-shadow: 0 15px 50px 0 rgba(20, 0, 255, .22);
+    margin-top: 100px;
+    padding: 15px 65px !important
+}
+
+.page-id-24624 .tb-container {
+    display: none
+}
+
+.page-id-24624 .tb-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 700px
+}
+
+.page-id-24624 .contact-section,
+.page-id-24624 .hero-section {
+    background: #efeff3
+}
+
+.page-id-24624 .infinite-footer-wrapper {
+    background: #1e1e20 !important;
+    padding: 60px 0
+}
+
+.page-id-24624 .infinite-footer-wrapper .infinite-footer-column .textwidget h6,
+.page-id-24624 .infinite-footer-wrapper .infinite-widget-title {
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 500
+}
+
+.page-id-24624 .infinite-footer-wrapper .infinite-footer-column a,
+.page-id-24624 .infinite-footer-wrapper .infinite-footer-column p {
+    color: #b6b6b6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px
+}
+
+@media only screen and (min-width:1440px) {
+    .page-id-24624 .gdlr-core-image-overlay-content {
+        margin-top: -30.4915px
+    }
+}
+
+@media only screen and (max-width:990px) {
+    .page-id-24624 .tb-container {
+        display: block
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .page-id-24624 rs-arrow {
+        display: none !important
+    }
+
+    .page-id-24624 .title-container .gdlr-core-title-item-title {
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-24624 .subtitle-container .gdlr-core-text-box-item-content,
+    .page-id-24624 .text-container .gdlr-core-text-box-item-content {
+        line-height: 32px !important
+    }
+
+    .page-id-24624 .appetiser-portfolio-wrapper .gdlr-core-filterer-wrap.gdlr-core-style-button a {
+        margin: 5px
+    }
+
+    .page-id-24624 .appetiser-portfolio-wrapper a.gdlr-core-load-more.gdlr-core-button-color {
+        margin-top: 80px
+    }
+
+    .page-id-24624 .tb-container {
+        display: none
+    }
+
+    .page-id-24624 .contact-section .gdlr-core-title-item-title {
+        line-height: 42px !important
+    }
+
+    .page-id-24624 .contact-section .contact-y23 {
+        background: #ececef !important;
+        box-shadow: inherit;
+        margin-left: 0 !important;
+        margin-right: 0 !important
+    }
+
+    .page-id-24624 .contact-section .contact-y23 .contact-form {
+        padding: 0
+    }
+}
+
+
+/* This code is from customise.css */

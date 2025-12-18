@@ -1,0 +1,463 @@
+/* This code is from customise.css */
+.postid-16554 .canvas-living-excelence .iphone-container p {
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 27px !important
+}
+
+.postid-16554 .canvas-living-excelence .iphone-container .text-container {
+    margin-left: 43px;
+    margin-top: -2rem;
+    max-width: 300px !important;
+    padding-left: 0;
+    padding-right: 0
+}
+
+.postid-16554 .canvas-living-excelence .left-iphone-container p {
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 27px !important
+}
+
+.postid-16554 .canvas-living-excelence .left-iphone-container .text-container {
+    margin-left: 232px;
+    margin-top: -2rem;
+    max-width: 300px !important;
+    padding-left: 0;
+    padding-right: 0
+}
+
+.postid-16554 .canvas-living-excelence .right-iphone-container p {
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 27px !important
+}
+
+.postid-16554 .canvas-living-excelence .right-iphone-container .text-container {
+    margin-left: 46px;
+    margin-top: -2rem;
+    max-width: 300px !important;
+    padding-left: 0;
+    padding-right: 0
+}
+
+.postid-16554 .canvas-living-result .download-container>div>div:first-child {
+    clear: none;
+    float: left;
+    padding-left: 0
+}
+
+.postid-16554 .canvas-living-result .download-container>div>div:last-child {
+    clear: none;
+    float: left;
+    padding-right: 0
+}
+
+.postid-16554 .canvas-living-footer .gdlr-core-title-item .gdlr-core-title-item-title-wrap {
+    display: contents !important
+}
+
+@media only screen and (max-width:1440px) {
+    .postid-16554 .canvas-living-trust .right-text-container {
+        padding-top: 210px !important
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .postid-16554 .canvas-living-excelence .iphone-container .text-container {
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .postid-16554 .canvas-living-excelence .left-iphone-container .text-container {
+        margin-left: 140px !important
+    }
+
+    .postid-16554 .canvas-living-trust .right-text-container {
+        padding-top: 175px !important
+    }
+
+    .postid-16554 .canvas-living-result .text-container {
+        padding-top: 80px !important
+    }
+}
+
+@media only screen and (max-width:999px) {
+
+    .postid-16554 .canvas-living-excelence .feature-image,
+    .postid-16554 .canvas-living-excelence .feature-text {
+        display: none
+    }
+}
+
+@media only screen and (max-width:912px) {
+    .postid-16554 .canvas-living-good {
+        padding-top: 0 !important
+    }
+
+    .postid-16554 .canvas-living-good .gdlr-core-pbf-wrapper-container {
+        display: flex;
+        flex-direction: column
+    }
+
+    .postid-16554 .canvas-living-good .gdlr-core-pbf-column:first-child {
+        order: 2 !important;
+        -webkit-order: 2 !important
+    }
+
+    .postid-16554 .canvas-living-good .gdlr-core-pbf-column:last-child {
+        order: 1 !important;
+        -webkit-order: 1 !important
+    }
+
+    .postid-16554 .canvas-living-good .right-text-container {
+        padding-top: 40px !important
+    }
+
+    .postid-16554 .canvas-living-good .right-text-container>div {
+        max-width: 480px !important
+    }
+
+    .postid-16554 .canvas-living-excelence {
+        margin-top: -16rem !important;
+        padding-bottom: 800px !important;
+        padding-top: 260px !important
+    }
+
+    .postid-16554 .canvas-living-excelence .text-container>div {
+        max-width: 480px !important
+    }
+
+    .postid-16554 .canvas-living-excelence .iphone-container .text-container {
+        margin-top: -1.5rem
+    }
+
+    .postid-16554 .canvas-living-excelence .left-iphone-container {
+        margin-left: 8rem
+    }
+
+    .postid-16554 .canvas-living-excelence .left-iphone-container .text-container {
+        margin-left: 6px !important;
+        margin-top: -1.5rem
+    }
+
+    .postid-16554 .canvas-living-excelence .right-iphone-container {
+        margin-right: 8rem
+    }
+
+    .postid-16554 .canvas-living-excelence .right-iphone-container .text-container {
+        margin-left: 26px !important;
+        margin-right: 26px !important;
+        margin-top: -1.5rem
+    }
+
+    .postid-16554 .canvas-living-trust {
+        margin: -50rem 0 0 !important
+    }
+
+    .postid-16554 .canvas-living-trust .left-image-container {
+        margin-top: 80px !important
+    }
+
+    .postid-16554 .canvas-living-trust .left-text-container {
+        padding-bottom: 60px !important;
+        padding-top: 20px !important
+    }
+
+    .postid-16554 .canvas-living-trust .right-text-container {
+        padding-top: 164px !important
+    }
+
+    .postid-16554 .canvas-living-trust .right-text-container>div {
+        max-width: 620px !important
+    }
+
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-wrapper-container {
+        display: flex;
+        flex-direction: column
+    }
+
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-column:nth-child(4) {
+        order: 1
+    }
+
+    .postid-16554 .canvas-living-result .text-container {
+        padding-top: 120px !important
+    }
+
+    .postid-16554 .canvas-living-footer .ipad-cta {
+        padding-top: 27% !important
+    }
+}
+
+@media only screen and (max-width:834px) {
+    .postid-16554 .Canvas-living-footer h2 {
+        letter-spacing: -4px !important
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .postid-16554 .canvas-living-excelence .gdlr-core-pbf-column:last-child {
+        padding-left: 12rem;
+        padding-right: 12rem
+    }
+
+    .postid-16554 .canvas-living-excelence .iphone-container,
+    .postid-16554 .canvas-living-excelence .left-iphone-container,
+    .postid-16554 .canvas-living-excelence .right-iphone-container {
+        display: none
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-image {
+        display: block
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text {
+        background: #fff;
+        border-radius: 18px;
+        display: block;
+        padding: 20px 0 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul {
+        margin-bottom: 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul li {
+        font-size: 15px;
+        line-height: 24px;
+        list-style-type: "✓   ";
+        padding-bottom: 20px
+    }
+
+    .postid-16554 .canvas-living-footer h3 {
+        color: #f2f2f2 !important
+    }
+
+    .postid-16554 .canvas-living-footer .ipad-cta {
+        min-height: 500px !important;
+        padding-top: 10% !important
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .postid-16554 .canvas-living-hero {
+        padding-top: 80px !important
+    }
+
+    .postid-16554 .canvas-living-hero .hero-mobile-banner {
+        margin-top: 0 !important
+    }
+
+    .postid-16554 .canvas-living-good .left-image-container {
+        z-index: 1
+    }
+
+    .postid-16554 .canvas-living-good .right-text-container {
+        padding-top: 0 !important
+    }
+
+    .postid-16554 .canvas-living-good .right-text-container>div {
+        padding-left: 0 !important
+    }
+
+    .postid-16554 .canvas-living-excelence {
+        margin-top: -260px !important;
+        padding-bottom: 800px !important;
+        padding-top: 300px !important
+    }
+
+    .postid-16554 .canvas-living-excelence .text-container {
+        padding-bottom: 20px !important
+    }
+
+    .postid-16554 .canvas-living-excelence .gdlr-core-pbf-column:last-child {
+        padding-left: 5rem !important;
+        padding-right: 5rem !important
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text {
+        background: #fff;
+        border-radius: 18px;
+        padding: 20px 0 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul {
+        margin-bottom: 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul li {
+        font-size: 15px;
+        line-height: 24px;
+        list-style-type: "✓   ";
+        padding-bottom: 20px
+    }
+
+    .postid-16554 .canvas-living-trust {
+        margin-top: -42.5rem !important
+    }
+
+    .postid-16554 .canvas-living-trust .left-image-container {
+        display: flex;
+        padding-top: 40px !important
+    }
+
+    .postid-16554 .canvas-living-trust .right-text-container {
+        display: flex;
+        padding-top: 90px !important
+    }
+
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-wrapper-container {
+        display: flex;
+        flex-direction: column
+    }
+
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-column:nth-child(3) {
+        order: 2 !important;
+        -webkit-order: 2 !important
+    }
+
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-column:last-child,
+    .postid-16554 .canvas-living-trust .gdlr-core-pbf-column:nth-child(5) {
+        order: 3 !important;
+        -webkit-order: 3 !important
+    }
+
+    .postid-16554 .canvas-living-result .text-container {
+        padding-top: 0 !important
+    }
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 235px
+    }
+
+    .postid-16554 .canvas-living-footer h2,
+    .postid-16554 .canvas-living-footer h3 {
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .postid-16554 .canvas-living-footer h3 {
+        color: #f2f2f2 !important;
+        margin: 0 50px !important
+    }
+
+    .postid-16554 .canvas-living-footer .ipad-cta {
+        min-height: 580px !important;
+        padding-top: 15% !important
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .postid-16554 .canvas-living-hero h1 {
+        letter-spacing: 0 !important;
+        line-height: 24px !important
+    }
+
+    .postid-16554 .canvas-living-good {
+        padding-top: 40px !important
+    }
+
+    .postid-16554 .canvas-living-excelence .gdlr-core-pbf-column:last-child {
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text {
+        background: #fff;
+        border-radius: 18px;
+        padding: 20px 0 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul {
+        margin-bottom: 0
+    }
+
+    .postid-16554 .canvas-living-excelence .feature-text ul li {
+        font-size: 15px;
+        line-height: 24px;
+        list-style-type: "✓    ";
+        padding-bottom: 20px
+    }
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child {
+        padding-left: 0;
+        padding-right: 2px
+    }
+
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        padding-left: 2px;
+        padding-right: 0
+    }
+}
+
+@media only screen and (max-width:480px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 225px
+    }
+}
+
+@media only screen and (max-width:428px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 199px
+    }
+}
+
+@media only screen and (max-width:414px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 192px
+    }
+}
+
+@media only screen and (max-width:412px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 191px
+    }
+}
+
+@media only screen and (max-width:390px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 180px
+    }
+}
+
+@media only screen and (max-width:375px) {
+    .postid-16554 .canvas-living-excelence {
+        padding-bottom: 900px !important
+    }
+
+    .postid-16554 .canvas-living-trust {
+        margin-top: -52rem !important
+    }
+
+    .postid-16554 .canvas-living-footer h2,
+    .postid-16554 .canvas-living-footer h3 {
+        margin: auto !important
+    }
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 172px
+    }
+}
+
+@media only screen and (max-width:360px) {
+
+    .postid-16554 .canvas-living-result .download-container div>div:first-child,
+    .postid-16554 .canvas-living-result .download-container div>div:last-child {
+        width: 165px
+    }
+}
+
+/* This code is from customise.css */

@@ -1,0 +1,65 @@
+.containbg .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js.lazyloaded {
+    background-size: contain !important;
+}
+
+@media (min-width:768px) and (max-width:820px) {
+    .mtab {
+        min-height: 1200px !important;
+    }
+}
+
+.containbg .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js {
+    background-size: contain;
+}
+
+/* This code is from customise.css */
+.page-id-13765 .ceo-section .gdlr-core-pbf-column-content-margin.gdlr-core-js.mm-quote {
+    padding: 120px !important
+}
+
+.page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
+
+.page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content>* {
+    border-radius: 15px;
+    box-shadow: 0 10px 40px -5px hsla(0, 0%, 44%, .15);
+    padding: 50px 1em
+}
+
+.page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content.clearfix:after {
+    display: none
+}
+
+@media only screen and (max-width:1024px) {
+    .page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content {
+        width: 90%
+    }
+
+    .page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content>* {
+        margin-bottom: 40px;
+        min-width: calc(50% - 20px)
+    }
+}
+
+/* About Us Quick Fix */
+@media only screen and (max-width: 768px) {
+    .page-id-13765 .gdlr-core-pbf-column-content-margin.gdlr-core-js.mm-quote {
+        padding: 50px !important;
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content {
+        width: 90%
+    }
+
+    .page-id-13765 .numbers-section .simple-boxes .gdlr-core-pbf-column-content>* {
+        margin-bottom: 30px;
+        width: 100% !important
+    }
+}
+
+/* This code is from customise.css */

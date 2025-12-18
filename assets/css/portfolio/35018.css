@@ -1,0 +1,408 @@
+.gdlr-core-pbf-wrapper {
+  margin-top: -1px;
+}
+
+.prt-2 .gdlr-core-title-item-title {
+  letter-spacing: -1.5px !important;
+}
+
+.ftc-title .gdlr-core-title-item-title {
+  letter-spacing: -0.5px !important;
+}
+
+.mobile-banner {
+  display: none;
+}
+
+.mobile-image {
+  display: none;
+}
+
+.tm-banner {
+  display: none;
+}
+
+.hero-section .logo-container .client-logo img {
+  max-width: 242px;
+}
+
+.spark-section .image-container .desktop-banner img {
+  max-width: 1230px;
+  margin-left: -100%;
+  margin-right: -100%;
+}
+
+.mid-section-1 .image-container .desktop-banner img {
+  max-width: 1305px;
+  margin-left: -100%;
+  margin-right: -100%;
+}
+
+.mid-section-2 .image-container .desktop-banner img {
+  max-width: 2304px;
+  margin-left: -100%;
+  margin-right: -100%;
+}
+
+.creation-section .image-container .desktop-img img {
+  max-width: 762px;
+  margin-left: -24%;
+}
+.creation-section .content-container .prc-2 a {
+  color: #63AEE4;
+}
+
+.app-section .image-container .desktop-img img {
+  max-width: 762px;
+  margin-right: -24%;
+}
+
+.download-section .banner-container .desktop-banner img {
+  max-width: 804px;
+  margin-left: -100%;
+  margin-right: -100%;
+}
+.download-section .logo-container .client-logo img {
+  max-width: 242px;
+}
+.download-section .dlb-container .gdlr-core-pbf-column-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.download-section .dlb-container img {
+  max-width: 212px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1280px) {
+  .prt-1 .gdlr-core-title-item-title {
+    font-size: 50px !important;
+    line-height: 57px !important;
+    letter-spacing: -2px !important;
+  }
+  .prt-1 .gdlr-core-title-item-caption {
+    font-size: 21px !important;
+    line-height: 24px !important;
+    letter-spacing: normal !important;
+  }
+  .prt-2 {
+    padding-bottom: 20px !important;
+  }
+  .prt-2 .gdlr-core-title-item-title {
+    font-size: 28px !important;
+    line-height: 42px !important;
+    letter-spacing: -1px !important;
+  }
+  .prc-2 .gdlr-core-text-box-item-content {
+    font-size: 20px !important;
+    line-height: 32px !important;
+  }
+  .dark-gradient-title .gdlr-core-title-item-title {
+    font-size: 50px !important;
+    line-height: 54px !important;
+    letter-spacing: -2px !important;
+  }
+  .cf-container {
+    margin-bottom: 60px !important;
+    min-height: auto !important;
+    height: auto !important;
+  }
+  .cf-container .ftc-title .gdlr-core-title-item-title {
+    font-size: 18px !important;
+    line-height: 28px !important;
+  }
+  .cf-container .ftc-title .gdlr-core-title-item-caption {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+  .hero-section {
+    padding-top: 80px !important;
+    padding-bottom: 380px !important;
+  }
+  .hero-section .logo-container {
+    margin-bottom: 25px !important;
+  }
+  .hero-section .prt-1 .gdlr-core-title-item-caption {
+    margin-top: 25px !important;
+  }
+  .spark-section {
+    padding-bottom: 380px !important;
+  }
+  .spark-section .image-container {
+    margin-top: -300px !important;
+    margin-bottom: 60px !important;
+  }
+  .spark-section .image-container .desktop-banner img {
+    max-width: 762px;
+  }
+  .spark-section .content-container .gdlr-core-pbf-column-content {
+    max-width: 560px !important;
+  }
+  .mid-section-1 {
+    padding-bottom: 100px !important;
+  }
+  .mid-section-1 .image-container {
+    margin-top: -340px !important;
+  }
+  .mid-section-1 .image-container .desktop-banner img {
+    max-width: 768px;
+  }
+  .creation-section {
+    padding-bottom: 340px !important;
+  }
+  .creation-section .gdlr-core-sync-height-pre-spaces {
+    display: none;
+  }
+  .creation-section .gdlr-core-pbf-wrapper-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .creation-section .gdlr-core-pbf-column {
+    width: 100%;
+  }
+  .creation-section .gdlr-core-pbf-column:first-child {
+    order: 2;
+  }
+  .creation-section .gdlr-core-pbf-column:nth-child(2) {
+    order: 1;
+  }
+  .creation-section .content-container {
+    height: auto !important;
+  }
+  .creation-section .content-container .gdlr-core-pbf-column-content {
+    max-width: 560px !important;
+  }
+  .creation-section .image-container .desktop-img img {
+    max-width: 500px;
+    margin-left: -100%;
+    margin-right: -100%;
+  }
+  .mid-section-2 {
+    padding-bottom: 140px !important;
+  }
+  .mid-section-2 .image-container {
+    margin-top: -274px !important;
+  }
+  .mid-section-2 .image-container .desktop-banner img {
+    max-width: 1354px;
+  }
+  .features-section {
+    padding-bottom: 100px !important;
+  }
+  .features-section .title-container {
+    margin-bottom: 60px !important;
+  }
+  .features-section .title-container .gdlr-core-pbf-column-content {
+    max-width: 560px !important;
+  }
+  .app-section {
+    padding-top: 70px !important;
+    padding-bottom: 50px !important;
+  }
+  .app-section .gdlr-core-sync-height-pre-spaces {
+    display: none;
+  }
+  .app-section .gdlr-core-pbf-wrapper-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .app-section .gdlr-core-pbf-column {
+    width: 100%;
+  }
+  .app-section .content-container {
+    height: auto !important;
+    margin-bottom: 80px !important;
+  }
+  .app-section .content-container .gdlr-core-pbf-column-content {
+    max-width: 560px !important;
+  }
+  .app-section .image-container {
+    height: auto !important;
+    min-height: auto !important;
+  }
+  .app-section .image-container .desktop-img img {
+    max-width: 500px;
+    margin-left: -100%;
+    margin-right: -100%;
+  }
+  .journey-section {
+    padding-top: 75px !important;
+    padding-bottom: 240px !important;
+  }
+  .journey-section .gdlr-core-pbf-column:last-child .content-container {
+    margin-top: 50px !important;
+  }
+  .journey-section .content-container {
+    margin-bottom: 40px !important;
+  }
+  .journey-section .content-container .gdlr-core-pbf-column-content {
+    max-width: 560px !important;
+  }
+  .journey-section .rat-container {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .journey-section .rat-container .gdlr-core-image-item {
+    padding-left: 2.5px !important;
+    padding-right: 2.5px !important;
+  }
+  .download-section {
+    padding-top: 0 !important;
+    padding-bottom: 100px !important;
+  }
+  .download-section .banner-container {
+    margin-top: -200px !important;
+  }
+  .download-section .banner-container .desktop-banner img {
+    max-width: 500px;
+  }
+  .download-section .logo-container {
+    margin-bottom: 50px !important;
+  }
+  .download-section .logo-container .client-logo {
+    padding-bottom: 20px !important;
+  }
+  .download-section .dlb-container img {
+    max-width: 202px !important;
+  }
+}
+.ipad-cta .title-container .gdlr-core-pbf-column-content {
+  max-width: 640px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .prt-1 .gdlr-core-title-item-title {
+    font-size: 40px !important;
+    line-height: 46px !important;
+  }
+  .prt-1 .gdlr-core-title-item-caption {
+    margin-top: 15px !important;
+  }
+  .prt-2 {
+    padding-bottom: 20px !important;
+  }
+  .prt-2 .gdlr-core-title-item-title {
+    font-size: 28px !important;
+    line-height: 42px !important;
+    letter-spacing: -1px !important;
+  }
+  .prc-2 .gdlr-core-text-box-item-content {
+    font-size: 20px !important;
+    line-height: 32px !important;
+  }
+  .cf-container {
+    margin-bottom: 60px !important;
+    min-height: auto !important;
+    height: auto !important;
+  }
+  .cf-container .ftc-title .gdlr-core-title-item-title {
+    font-size: 18px !important;
+    line-height: 28px !important;
+  }
+  .cf-container .ftc-title .gdlr-core-title-item-caption {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+  .client-logo img {
+    max-width: 242px !important;
+  }
+  .hero-section {
+    padding-top: 100px !important;
+    padding-bottom: 240px !important;
+  }
+  .mid-section-1 {
+    padding-bottom: 120px !important;
+  }
+  .mid-section-1 .image-container {
+    margin-top: -220px !important;
+  }
+  .mid-section-1 .image-container .desktop-banner {
+    display: none;
+  }
+  .mid-section-1 .image-container .mobile-banner {
+    display: block;
+  }
+  .mid-section-1 .image-container .mobile-banner img {
+    max-width: 484px;
+    margin-left: -100%;
+    margin-right: -100%;
+  }
+  .spark-section {
+    padding-bottom: 230px !important;
+  }
+  .spark-section .image-container {
+    margin-top: -160px !important;
+    margin-bottom: 100px !important;
+  }
+  .spark-section .image-container .desktop-banner img {
+    max-width: 471px;
+  }
+  .creation-section {
+    padding-bottom: 480px !important;
+  }
+  .creation-section .content-container {
+    margin-bottom: 60px !important;
+  }
+  .mid-section-2 .image-container {
+    margin-top: -540px !important;
+  }
+  .mid-section-2 .image-container .desktop-banner {
+    display: none;
+  }
+  .mid-section-2 .image-container .mobile-banner {
+    display: block;
+  }
+  .mid-section-2 .image-container .mobile-banner img {
+    max-width: 484px;
+    margin-left: -100%;
+    margin-right: -100%;
+  }
+  .features-section {
+    padding-bottom: 40px !important;
+  }
+  .features-section .title-container {
+    margin-bottom: 70px !important;
+  }
+  .features-section .gdlr-core-column-30 {
+    width: 50%;
+  }
+  .journey-section {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+  }
+  .download-section {
+    padding-bottom: 120px !important;
+  }
+  .download-section .banner-container {
+    margin-top: -210px !important;
+  }
+  .download-section .banner-container .desktop-banner img {
+    max-width: 414px;
+  }
+  .download-section .prt-2 {
+    padding-bottom: 0 !important;
+  }
+  .download-section .prt-2 .gdlr-core-title-item-title {
+    font-size: 40px !important;
+    line-height: 46px !important;
+    letter-spacing: -2px !important;
+  }
+  .download-section .logo-container {
+    margin-bottom: 30px !important;
+  }
+  .download-section .logo-container .client-logo {
+    padding-bottom: 30px !important;
+  }
+  .download-section .dlb-container img {
+    max-width: 176px;
+  }
+  .download-section .dlb-container .gdlr-core-pbf-column-content {
+    gap: 0;
+  }
+  .download-section .dlb-container .gdlr-core-image-item {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+}/*# sourceMappingURL=style.css.map */

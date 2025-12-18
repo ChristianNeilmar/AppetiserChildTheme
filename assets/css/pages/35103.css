@@ -1,0 +1,295 @@
+@media only screen and (max-width: 1000px) {
+    .invest-hero .invest-hero-title h3 {
+        font-size: 38px !important;
+        font-weight: 700 !important;
+        line-height: 46px !important;
+        letter-spacing: -2px !important;
+        text-align: center;
+    }
+}
+
+.invest-hero .gdlr-core-text-box-item-content {
+    line-height: 24px !important;
+}
+
+@media only screen and (max-width: 1024px) {
+    .innovators {
+        margin: -234px 0px 0px 0px !important;
+        padding: 175px 0px 100px 0px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .innovators {
+        margin: -150px 0px 0px 0px !important;
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+.investx {
+    background: linear-gradient(360deg, #d9d9d9 0%, #fff 100%) !important;
+}
+
+@media only screen and (max-width: 1000px) {
+    .investx .gdlr-core-title-item-title {
+        line-height: 42px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .investx img {
+        width: 80%;
+    }
+}
+
+.investx-content .card,
+.investx-content2 .card {
+    padding: 10px;
+}
+
+.investx-content .card-content,
+.investx-content2 .card-content {
+    padding: 40px 38px 0;
+    background: #ccc;
+    top: 471px;
+    left: 195px;
+    /* padding: 38px 54px 38px 54px;
+	 */
+    /* gap: 10px;
+	 */
+    border-radius: 20px;
+    background: #202021;
+    min-height: 271px;
+    display: flex;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.investx-content .card-content h3,
+.investx-content2 .card-content h3,
+.investx-content .card-content p,
+.investx-content2 .card-content p {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: left;
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .investx-content .card-content h3,
+    .investx-content2 .card-content h3,
+    .investx-content .card-content p,
+    .investx-content2 .card-content p {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 32px;
+        text-align: left;
+    }
+}
+
+.investx-content .card-content h3,
+.investx-content2 .card-content h3 {
+    color: #fff !important;
+    font-weight: 400;
+}
+
+.investx-content .card-content p,
+.investx-content2 .card-content p {
+    color: #acacac !important;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 1024px) {
+    .steps {
+        /* font-family: Helvetica;
+		 */
+        /* font-size: 38px;
+		 */
+    }
+
+    .steps #gdlr-core-title-item-7 .gdlr-core-title-item-title {
+        font-weight: 700 !important;
+        line-height: 46px !important;
+        letter-spacing: -2px !important;
+        text-align: center !important;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .point5mobile * {
+        letter-spacing: 1px !important;
+    }
+}
+
+.mbanner-section .m-banner .desktop-banner img {
+    max-width: 2665px;
+    margin-left: -100%;
+    margin-right: -100%;
+}
+
+.mbanner-section .m-banner .mobile-banner {
+    display: none;
+}
+
+.mbanner-section .m-banner .mobile-banner img {
+    max-width: 580px;
+    margin-left: -76%;
+}
+
+@media only screen and (max-width: 999px) {
+    .mbanner-section .m-banner .desktop-banner img {
+        max-width: 1422px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .mbanner-section .m-banner .desktop-banner {
+        display: none;
+    }
+
+    .mbanner-section .m-banner .mobile-banner {
+        display: flex;
+    }
+}
+
+.ipad-full .gdlr-core-text-box-item-content {
+    /* font-family: Open Sans;
+	 */
+    font-size: 22px !important;
+    font-weight: 400 !important;
+    line-height: 38px !important;
+    text-align: left !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .ipad-full .gdlr-core-pbf-background.gdlr-core-parallax.gdlr-core-js {
+        background-size: contain;
+        /* margin-bottom: -10px;
+		 */
+    }
+}
+
+.ipad-full #gdlr-core-title-item-5 .gdlr-core-title-item-title {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: -1.5px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+    .ipad-full #gdlr-core-title-item-5 .gdlr-core-title-item-title {
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: -1px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .ipad-full #gdlr-core-title-item-5 .gdlr-core-title-item-title {
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: -1px;
+        text-align: center;
+    }
+}
+
+
+.card-full .card-content {
+    min-height: 235px;
+}
+
+
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    gap: 90px;
+}
+
+.countdown span {
+
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -3px;
+    text-align: center;
+    color: #000;
+}
+
+.countdown p {
+    color: #2F2F2F;
+
+
+    font-family: Open Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: center;
+
+}
+
+
+@media only screen and (max-width:1000px) {
+
+    .countdown {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        align-content: center;
+        flex-wrap: nowrap;
+        gap: 20px;
+    }
+
+}
+
+.testimonial_user {
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+.testimonial_position {
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    color: #ACACAC;
+}
+
+@media only screen and (max-width: 767px) {
+    .countdown-title .gdlr-core-title-item-title {
+        letter-spacing: -1px !important;
+    }
+
+    .how-text p {
+        line-height: 32px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .countdown {
+        gap: 10px;
+        justify-content: space-evenly;
+    }
+
+    .countdown span {
+        font-size: 35px;
+        line-height: 42px;
+        letter-spacing: -1.44px;
+    }
+
+    .countdown p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+}

@@ -1,0 +1,213 @@
+/* This code is from customise.css */
+.page-id-14355 .what-section h3 {
+    letter-spacing: -.5px !important
+}
+
+.page-id-14355 .what-section p {
+    font-family: Open Sans, sans-serif !important
+}
+
+.page-id-14355 .what-section a {
+    color: #156dad
+}
+
+.page-id-14355 .careers-section h2 {
+    letter-spacing: -.5px !important
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-theme-light {
+    border: none !important;
+    box-shadow: none !important
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__header-main span {
+    color: #111;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -.5px;
+    line-height: 20px;
+    text-transform: none
+}
+
+.page-id-14355 .careers-section #recruitee-careers h2 {
+    letter-spacing: -.5px
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item {
+    border: 1px solid #c4c4c4 !important;
+    border-radius: 10px !important;
+    padding: 20px 40px
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item+.rt-list__offer-item {
+    margin-top: 20px !important;
+    padding: 20px 40px !important
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt-list__offer-title.rt__text.rt__text--secondary.rt__link {
+    color: #111 !important;
+    font-family: Open Sans;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    letter-spacing: -.5px;
+    line-height: 20px
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt-list__offer-remote.rt__text.rt__text--secondary,
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt__text.rt__text--base.rt-list__offer-location {
+    color: #3a3a3a !important;
+    font-family: Open Sans;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 26px
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item:hover {
+    color: #111
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item:hover .rt-list__offer-title {
+    text-decoration: none !important
+}
+
+
+.page-id-14355 .careers-section #recruitee-careers .rt-icon.rt-icon-arrow-forward {
+    top: 35%
+}
+
+.page-id-14355 .careers-section #recruitee-careers .rt-list__header--root {
+    border: none !important
+}
+
+.page-id-14355 .impact-section h3 {
+    letter-spacing: -.5px
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-frame.clearfix.gdlr-core-skin-e-background {
+    box-shadow: 0 15px 50px rgba(0, 0, 0, .1);
+    padding: 70px 140px
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-item .gdlr-core-testimonial-author-image img {
+    border-radius: 15px;
+    -webkit-border-radius: 15px
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-content-wrap {
+    display: flex;
+    flex-direction: column
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-content-wrap .gdlr-core-testimonial-content.gdlr-core-info-font.gdlr-core-skin-content {
+    order: 2
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-content-wrap .gdlr-core-testimonial-author-wrap.clearfix {
+    margin-bottom: 30px
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-title.gdlr-core-title-font.gdlr-core-skin-title {
+    margin-bottom: -10px !important
+}
+
+.page-id-14355 .feedback-section .gdlr-core-testimonial-content,
+.page-id-14355 .feedback-section .gdlr-core-testimonial-position.gdlr-core-info-font.gdlr-core-skin-caption {
+    font-family: Helvetica, sans-serif !important
+}
+
+@media only screen and (max-width:767px) {
+    .page-id-14355 .hero-section {
+        margin-top: 50px !important
+    }
+
+    .page-id-14355 .hero-section h2 {
+        font-size: 40px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-14355 .what-section h3 {
+        letter-spacing: -1px !important;
+        line-height: 42px !important
+    }
+
+    .page-id-14355 .what-section p {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-14355 .what-section strong {
+        font-weight: 400
+    }
+
+    .page-id-14355 .careers-section h2 {
+        letter-spacing: -1px !important;
+        line-height: 42px !important
+    }
+
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__header-main span {
+        font-size: 21px;
+        letter-spacing: normal;
+        line-height: 24px
+    }
+
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item {
+        padding: 15px 20px
+    }
+
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item+.rt-list__offer-item {
+        margin-top: 10px !important;
+        padding: 15px 20px !important
+    }
+
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt-list__offer-title.rt__text.rt__text--secondary.rt__link {
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        letter-spacing: normal;
+        line-height: 24px
+    }
+
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt-list__offer-remote.rt__text.rt__text--secondary,
+    .page-id-14355 .careers-section #recruitee-careers .rt-list__offer-item span.rt__text.rt__text--base.rt-list__offer-location {
+        font-size: 15px !important;
+        line-height: 24px
+    }
+
+    .page-id-14355 .feedback-section h2 {
+        font-size: 30px;
+        line-height: 42px
+    }
+
+    .page-id-14355 .feedback-section .gdlr-core-testimonial-position.gdlr-core-info-font.gdlr-core-skin-caption {
+        font-family: Open Sans, sans-serif !important;
+        font-size: 15px !important;
+        line-height: 24px !important
+    }
+
+    .page-id-14355 .feedback-section .gdlr-core-testimonial-content {
+        font-family: Open Sans, sans-serif !important;
+        font-size: 20px !important
+    }
+
+    .page-id-14355 .feedback-section .gdlr-core-testimonial-frame.clearfix.gdlr-core-skin-e-background {
+        padding: 40px 45px 60px
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .page-id-14355 .hero-section .hero-title-container {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        max-width: 300px !important
+    }
+
+    .page-id-14355 .hero-section .hero-title-container .gdlr-core-title-item.gdlr-core-item-pdb.clearfix.gdlr-core-center-align.gdlr-core-title-item-caption-top.gdlr-core-item-pdlr {
+        padding-bottom: 30px !important
+    }
+
+    .page-id-14355 .feedback-section .gdlr-core-testimonial-frame.clearfix.gdlr-core-skin-e-background {
+        padding: 35px 30px
+    }
+}
+
+/* This code is from customise.css */

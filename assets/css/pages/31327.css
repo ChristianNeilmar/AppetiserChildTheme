@@ -1,0 +1,424 @@
+.page-id-31327 .gdlr-core-pbf-wrapper {
+    margin-top: -1px !important
+}
+
+.page-id-31327 .hero-section .hero-title {
+    margin-bottom: 35px
+}
+
+.page-id-31327 .hero-banner .banner-container .desktop-banner img {
+    margin-left: -93%;
+    margin-right: -100%;
+    margin-top: -15%;
+    max-width: 1758px
+}
+
+.page-id-31327 .hero-banner .banner-container .mobile-banner,
+.page-id-31327 .hero-banner .banner-container .tablet-banner {
+    display: none
+}
+
+.page-id-31327 .services-section {
+    margin-top: 0 !important
+}
+
+.page-id-31327 .services-section .gdlr-core-pbf-background {
+    background-position: -200% 55% !important
+}
+
+.page-id-31327 .services-section .gdlr-core-pbf-wrapper-container {
+    justify-content: center
+}
+
+.page-id-31327 .services-section .gdlr-core-pbf-column {
+    margin: 20px;
+    max-width: 500px;
+    width: 100%
+}
+
+.page-id-31327 .services-section .services-cards {
+    min-height: 295px;
+    background: linear-gradient(308deg, #101e2e 7.77%, #000 103.82%);
+    border: 1px solid #22222e;
+    border-radius: 21.068px;
+    padding: 40px 60px
+}
+
+.page-id-31327 .services-section .services-cards .srv-icon {
+    margin-bottom: 24px
+}
+
+.page-id-31327 .services-section .services-cards .srv-icon img {
+    max-width: 38px
+}
+
+.page-id-31327 .services-section .services-cards .ads-subheadline,
+.page-id-31327 .services-section .services-cards .srv-body {
+    margin-bottom: 15px
+}
+
+.page-id-31327 .webapp-banner .banner-container .desktop-banner img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 1402px
+}
+
+.page-id-31327 .webapp-banner .banner-container .tm-banner {
+    display: none
+}
+
+.page-id-31327 .why-section .content-container .ads-title-2 {
+    margin-bottom: 25px
+}
+
+.page-id-31327 .why-section .image-container .desktop-img img {
+    max-width: 760px
+}
+
+.page-id-31327 .more-section .gdlr-core-pbf-background {
+    background-position: -45% 25% !important
+}
+
+.page-id-31327 .more-section .title-container .ads-title-2 {
+    margin-bottom: 25px
+}
+
+.page-id-31327 .more-section .banner-container .mobile-banner {
+    display: none
+}
+
+.page-id-31327 .awards-section .image-container .desktop-img img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 994px
+}
+
+.page-id-31327 .awards-section .image-container .mobile-img {
+    display: none
+}
+
+.page-id-31327 .partner-section .gdlr-core-pbf-background {
+    background-position: 95% 110% !important
+}
+
+.page-id-31327 .partner-section .title-container .ads-title-2 {
+    margin-bottom: 25px
+}
+
+.page-id-31327 .partner-section .title-container .ads-body {
+    margin-bottom: 30px
+}
+
+.page-id-31327 .partner-section .title-container .btn-gradient1 p {
+    justify-content: left
+}
+
+.page-id-31327 .team-banner .banner-container .desktop-banner img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 960px
+}
+
+@media screen and (min-width:768px) and (max-width:1280px) {
+    .page-id-31327 .ads-title-2 {
+        margin-bottom: 15px !important
+    }
+
+    .page-id-31327 .hero-section {
+        padding-bottom: 20px !important;
+        padding-top: 60px !important
+    }
+
+    .page-id-31327 .hero-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 520px !important
+    }
+
+    .page-id-31327 .hero-section .hero-title {
+        margin-bottom: 20px
+    }
+
+    .page-id-31327 .hero-section .hero-title .gdlr-core-title-item-title {
+        font-size: 38px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-31327 .hero-section .hero-callout .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-31327 .hero-banner {
+        padding-bottom: 60px !important
+    }
+
+    .page-id-31327 .hero-banner .banner-container .desktop-banner {
+        display: none
+    }
+
+    .page-id-31327 .hero-banner .banner-container .tablet-banner {
+        display: block
+    }
+
+    .page-id-31327 .hero-banner .banner-container .tablet-banner img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 874px
+    }
+
+    .page-id-31327 .services-section {
+        margin-top: -1px !important;
+        padding-bottom: 60px !important
+    }
+
+    .page-id-31327 .services-section .gdlr-core-pbf-background {
+        display: none
+    }
+
+    .page-id-31327 .services-section .gdlr-core-pbf-column {
+        margin: 12px 9px;
+        max-width: 340px
+    }
+
+    .page-id-31327 .services-section .services-cards {
+        padding: 40px 20px 40px 40px
+    }
+
+    .page-id-31327 .services-section .services-cards .srv-icon {
+        margin-bottom: 20px
+    }
+
+    .page-id-31327 .services-section .services-cards .ads-subheadline {
+        margin-bottom: 14px
+    }
+
+    .page-id-31327 .services-section .services-cards .srv-body {
+        margin-bottom: 0
+    }
+
+    .page-id-31327 .webapp-banner {
+        padding-bottom: 70px !important
+    }
+
+    .page-id-31327 .webapp-banner .banner-container {
+        margin-top: 0 !important
+    }
+
+    .page-id-31327 .webapp-banner .desktop-banner {
+        display: none
+    }
+
+    .page-id-31327 .webapp-banner .tm-banner {
+        display: block
+    }
+
+    .page-id-31327 .webapp-banner .tm-banner img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 778px
+    }
+
+    .page-id-31327 .awards-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .more-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .partner-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .webapp-banner .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .why-section .gdlr-core-pbf-background-wrap {
+        background-color: #000 !important
+    }
+
+    .page-id-31327 .why-section {
+        padding-bottom: 120px !important
+    }
+
+    .page-id-31327 .why-section .content-container {
+        margin-left: 0 !important
+    }
+
+    .page-id-31327 .why-section .content-container .gdlr-core-pbf-column-content {
+        max-width: 355px !important
+    }
+
+    .page-id-31327 .why-section .image-container .desktop-img img {
+        max-width: 545px
+    }
+
+    .page-id-31327 .more-section {
+        padding-bottom: 80px !important
+    }
+
+    .page-id-31327 .more-section .gdlr-core-pbf-background {
+        display: none !important
+    }
+
+    .page-id-31327 .more-section .title-container {
+        margin-bottom: 40px !important
+    }
+
+    .page-id-31327 .more-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 466px !important
+    }
+
+    .page-id-31327 .more-section .banner-container .desktop-banner {
+        max-width: 864px !important
+    }
+
+    .page-id-31327 .awards-section {
+        padding-bottom: 160px !important
+    }
+
+    .page-id-31327 .awards-section .image-container .desktop-img img {
+        max-width: 694px
+    }
+
+    .page-id-31327 .partner-section {
+        padding-bottom: 300px !important
+    }
+
+    .page-id-31327 .partner-section .btn-gradient1 p a {
+        max-width: 342px
+    }
+
+    .page-id-31327 .partner-section .gdlr-core-pbf-background {
+        display: none !important
+    }
+
+    .page-id-31327 .partner-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 466px !important
+    }
+
+    .page-id-31327 .team-banner {
+        padding-bottom: 30px !important
+    }
+
+    .page-id-31327 .team-banner .banner-container {
+        margin-top: -13em !important
+    }
+
+    .page-id-31327 .team-banner .banner-container .desktop-banner img {
+        max-width: 600px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .page-id-31327 .hero-section .hero-title {
+        margin-bottom: 25px !important
+    }
+
+    .page-id-31327 .hero-section .hero-title .gdlr-core-title-item-title {
+        font-size: 38px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-31327 .hero-section .hero-callout .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-31327 .hero-banner .banner-container .desktop-banner {
+        display: none
+    }
+
+    .page-id-31327 .hero-banner .banner-container .mobile-banner {
+        display: block
+    }
+
+    .page-id-31327 .hero-banner .banner-container .mobile-banner img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 358px
+    }
+
+    .page-id-31327 .services-section {
+        margin-top: -1px !important;
+        padding-bottom: 60px !important
+    }
+
+    .page-id-31327 .services-section .ads-subheadline .gdlr-core-title-item-title {
+        font-size: 21px !important;
+        line-height: 24px !important
+    }
+
+    .page-id-31327 .services-section .srv-body .gdlr-core-text-box-item-content {
+        font-size: 15px !important;
+        line-height: 24px !important
+    }
+
+    .page-id-31327 .services-section .gdlr-core-pbf-column {
+        margin: 10px 0 !important
+    }
+
+    .page-id-31327 .services-section .gdlr-core-pbf-column:last-child {
+        margin-bottom: 0 !important
+    }
+
+    .page-id-31327 .services-section .services-cards {
+        padding: 40px 20px 40px 40px !important
+    }
+
+    .page-id-31327 .webapp-banner .banner-container .desktop-banner {
+        display: none
+    }
+
+    .page-id-31327 .webapp-banner .banner-container .tm-banner {
+        display: block
+    }
+
+    .page-id-31327 .webapp-banner .banner-container .tm-banner img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 452px
+    }
+
+    .page-id-31327 .awards-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .more-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .partner-section .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .webapp-banner .gdlr-core-pbf-background-wrap,
+    .page-id-31327 .why-section .gdlr-core-pbf-background-wrap {
+        background-color: #000 !important
+    }
+
+    .page-id-31327 .why-section .image-container .desktop-img img {
+        max-width: 342px
+    }
+
+    .page-id-31327 .more-section .gdlr-core-pbf-background {
+        display: none !important
+    }
+
+    .page-id-31327 .more-section .banner-container .desktop-banner {
+        display: none
+    }
+
+    .page-id-31327 .more-section .banner-container .mobile-banner {
+        display: block
+    }
+
+    .page-id-31327 .more-section .banner-container .mobile-banner img {
+        max-width: 374px !important
+    }
+
+    .page-id-31327 .awards-section .image-container .desktop-img {
+        display: none
+    }
+
+    .page-id-31327 .awards-section .image-container .mobile-img {
+        display: block
+    }
+
+    .page-id-31327 .awards-section .image-container .mobile-img img {
+        max-width: 344px
+    }
+
+    .page-id-31327 .partner-section .gdlr-core-pbf-background {
+        display: none !important
+    }
+
+    .page-id-31327 .team-banner .banner-container {
+        margin-top: -6.5em !important
+    }
+
+    .page-id-31327 .team-banner .banner-container .desktop-banner img {
+        max-width: 404px
+    }
+}

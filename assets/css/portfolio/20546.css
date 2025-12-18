@@ -1,0 +1,116 @@
+/* This code is from customise.css */
+.postid-20546 .hero-divider {
+    background: linear-gradient(180deg, #fde2f1, rgba(253, 226, 241, 0));
+    transform: rotate(-180deg)
+}
+
+.postid-20546 .hero-divider>div {
+    transform: rotate(180deg)
+}
+
+.postid-20546 .dance-section .gdlr-core-pbf-column-content {
+    margin-left: 24em;
+    margin-right: 0
+}
+
+.postid-20546 .review-section .review-cards {
+    border: 1px solid #ededed;
+    border-radius: 20px;
+    box-shadow: 4px 6px 13px rgba(0, 0, 0, .1)
+}
+
+.postid-20546 .review-section .review-cards img {
+    width: 146px
+}
+
+@media only screen and (max-width:1024px) {
+    .postid-20546 .hero-divider {
+        padding-top: 0 !important
+    }
+
+    .postid-20546 .dance-section {
+        padding-bottom: 520px !important
+    }
+
+    .postid-20546 .dance-section .gdlr-core-pbf-column-content {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 620px
+    }
+
+    .postid-20546 .cdw-section .cdw-container {
+        margin-left: 0 !important;
+        margin-top: -26em !important
+    }
+
+    .postid-20546 .breakout-section .left-container img {
+        max-width: 400px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .postid-20546 .title-container p {
+        line-height: 32px
+    }
+
+    .postid-20546 .hero-banner {
+        min-height: 492px !important
+    }
+
+    .postid-20546 .hero-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/04/CDW_Banner-Image_Mobile.webp) !important
+    }
+
+    .postid-20546 .go-banner {
+        min-height: 398px !important
+    }
+
+    .postid-20546 .go-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/04/CDW_What-You-Kow-Banner_Mobile.webp) !important
+    }
+
+    .postid-20546 .together-banner {
+        min-height: 528px !important
+    }
+
+    .postid-20546 .together-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/04/CDW_Multiphone-Banner_Mobile.webp) !important
+    }
+
+    .postid-20546 .discover-section .gdlr-core-pbf-background {
+        background-image: none !important
+    }
+
+    .postid-20546 .discover-section .discover-cards .gdlr-core-pbf-column-content {
+        max-width: 300px !important
+    }
+
+    .postid-20546 .breakout-section .left-container img {
+        max-width: 260px
+    }
+
+    .postid-20546 .downloads-left .appstore .gdlr-core-image-item-wrap {
+        margin-right: 5px !important
+    }
+
+    .postid-20546 .downloads-left .playstore .gdlr-core-image-item-wrap {
+        margin-left: 5px !important
+    }
+
+    .postid-20546 .downloads-left img {
+        max-width: 140px
+    }
+
+    .postid-20546 .review-section .gdlr-core-container-custom {
+        max-width: 100% !important;
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .postid-20546 .review-section .revslider-container .gdlr-core-revolution-slider-item {
+        padding-left: 0;
+        padding-right: 0
+    }
+}
+
+/* This code is from customise.css */

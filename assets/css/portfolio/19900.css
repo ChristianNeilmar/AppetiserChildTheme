@@ -1,0 +1,103 @@
+/* This code is from customise.css */
+.postid-19900 .hero-section p {
+    letter-spacing: -.5px
+}
+
+.postid-19900 .manage-section {
+    background: linear-gradient(1turn, #216fb6, #408acd 95.36%)
+}
+
+.postid-19900 .growth-section {
+    background: linear-gradient(1turn, #15446f, #438ed1 95.36%)
+}
+
+.postid-19900 .features-section p {
+    letter-spacing: -.5px
+}
+
+@media only screen and (min-width:2754px) {
+    .postid-19900 .growth-section {
+        padding-bottom: 700px !important
+    }
+
+    .postid-19900 .download-section {
+        margin-top: -10em !important
+    }
+}
+
+@media screen and (max-width:1280px) and (min-width:768px) {
+
+    .postid-19900 .download-section .bg-contain .gdlr-core-pbf-background,
+    .postid-19900 .manage-section .bg-contain .gdlr-core-pbf-background,
+    .postid-19900 .talk-section .bg-contain .gdlr-core-pbf-background {
+        background-size: cover
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    .postid-19900 .hero-section .hero-title,
+    .postid-19900 .pr-title-container .gdlr-core-title-item {
+        padding-bottom: 20px !important
+    }
+
+    .postid-19900 .hero-section h2 {
+        line-height: 42px !important
+    }
+
+    .postid-19900 .hero-section p {
+        line-height: 24px !important
+    }
+
+    .postid-19900 .manage-section .hero-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/03/CoS-Hero-Banner-Mobile.webp) !important;
+        background-size: contain !important
+    }
+
+    .postid-19900 .manage-section .cos-card,
+    .postid-19900 .talk-section .cos-card {
+        margin-left: 35px !important;
+        margin-right: 35px !important
+    }
+
+    .postid-19900 .talk-section .bubbles-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/03/CoS-Bubbles-Mobile.webp) !important;
+        background-size: contain !important
+    }
+
+    .postid-19900 .features-section p {
+        line-height: 24px !important
+    }
+
+    .postid-19900 .download-section .download-banner .gdlr-core-pbf-background {
+        background-image: url(/wp-content/uploads/2023/03/COS-Banner-Phones-Bottom-Mobile.webp) !important;
+        background-size: contain !important
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .postid-19900 .manage-section .hero-banner {
+        min-height: 430px !important
+    }
+
+    .postid-19900 .manage-section .hero-banner .gdlr-core-pbf-background {
+        background-size: cover !important
+    }
+
+    .postid-19900 .talk-section .bubbles-banner {
+        min-height: 450px !important
+    }
+
+    .postid-19900 .talk-section .bubbles-banner .gdlr-core-pbf-background {
+        background-size: cover !important
+    }
+
+    .postid-19900 .download-section .download-banner {
+        min-height: 398px !important
+    }
+
+    .postid-19900 .download-section .download-banner .gdlr-core-pbf-background {
+        background-size: cover !important
+    }
+}
+/* This code is from customise.css */

@@ -1,0 +1,80 @@
+ /* This code is from customise.css */
+ /* ON GOING CRO - Seed to Success Audience Choice */
+ .page-id-13715 .cro-audience-v1 {
+     display: none;
+ }
+
+ .page-id-13715 .hero-section .desktop-banner img {
+     margin-left: -100%;
+     margin-right: -100%;
+     max-width: 1108px
+ }
+
+ .page-id-13715 .bd-section .bd-desktop img {
+     margin-left: -140%;
+     margin-right: -100%;
+     max-width: 710px
+ }
+
+ .page-id-13715 .mid-section .mpd-banner img {
+     margin-left: -100%;
+     margin-right: -100%;
+     max-width: 1060px
+ }
+
+ .page-id-13715 .how-section .ipad-overlap img {
+     max-width: 1150px
+ }
+
+ .page-id-13715 .appdesign-section .yfd-banner img {
+     max-width: 612px
+ }
+
+ .page-id-13715 .shaq-section .db-desktop img {
+     margin-left: -100%;
+     margin-right: -100%;
+     max-width: 1060px
+ }
+
+ .page-id-13715 .shaq-section .shaq-container img {
+     max-width: 710px
+ }
+
+ @media only screen and (max-width:999px) {
+     .page-id-13715 .bd-section .tmb-banner img {
+         margin-left: -100%;
+         margin-right: -100%;
+         max-width: 375px
+     }
+ }
+
+ @media only screen and (max-width:767px) {
+
+     .page-id-13715 .hero-section .mb-banner img,
+     .page-id-13715 .mid-section .mpm-banner img {
+         margin-left: -100%;
+         margin-right: -100%;
+         max-width: 360px
+     }
+
+     .page-id-13715 .how-section .ipad-overlap-mobile img {
+         margin-left: -100%;
+         margin-right: -100%;
+         max-width: 600px
+     }
+
+     .page-id-13715 .appdesign-section .yfm-banner img,
+     .page-id-13715 .shaq-section .db-mobile img {
+         margin-left: -100%;
+         margin-right: -100%;
+         max-width: 360px
+     }
+
+     .page-id-13715 .shaq-section .shaq-container-mobile img {
+         margin-left: -100%;
+         margin-right: -100%;
+         max-width: 375px
+     }
+ }
+
+ /* This code is from customise.css */

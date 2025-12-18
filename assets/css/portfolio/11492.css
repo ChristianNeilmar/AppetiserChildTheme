@@ -1,0 +1,318 @@
+/* This code is from customise.css */
+.postid-11492 .roamni_body_text p {
+    line-height: inherit;
+    margin-bottom: 20px
+}
+
+@media only screen and (max-width:1024px) {
+    .postid-11492 .roamni_header_title h3 {
+        font-size: 43px !important
+    }
+}
+
+@media(min-width:769px) and (max-width:820px) {
+    .postid-11492 .roamni_header_title {
+        max-width: 100%
+    }
+
+    .postid-11492 .service-row.row-reverse .gdlr-core-pbf-column-content-margin.gdlr-core-js.ipad-pro-padding {
+        margin-bottom: 50px;
+        margin-top: -240px
+    }
+
+    .postid-11492 .ipad_margin_top {
+        margin-top: -200px !important;
+        padding-left: 100px !important;
+        padding-right: 100px !important
+    }
+
+    .postid-11492 .ipad_margin_top p {
+        padding: 0 !important
+    }
+
+    .postid-11492 .ipad_margin_top h3.gdlr-core-title-item-title.gdlr-core-skin-title {
+        font-size: 50px !important
+    }
+}
+
+@media only screen and (max-width:820px) {
+
+    .postid-11492 .layout_full_ipad .gdlr-core-pbf-column {
+        width: 100%
+    }
+
+    .postid-11492 .ipad_center {
+        margin-bottom: 100px;
+        margin-top: -140px;
+        padding-left: 139px;
+        padding-top: 0;
+        width: 91%
+    }
+
+    .postid-11492 .service-row .gdlr-core-pbf-column {
+        width: 100%
+    }
+
+    .postid-11492 .extended-img.right-extend .gdlr-core-image-item {
+        margin-left: -490px;
+        width: 250%
+    }
+}
+
+@media(min-width:769px) and (max-width:1024px) {
+    .postid-11492 .roamni_header_title {
+        margin-top: 20px;
+        margin-top: -45px
+    }
+
+    .postid-11492 .gdlr-core-pbf-column-content-margin.gdlr-core-js.ipad_center_container {
+        margin-left: 40px !important;
+        width: 100%
+    }
+}
+
+.postid-11492 h3.gdlr-core-title-item-title.gdlr-core-skin-title {
+    font-weight: 900
+}
+
+.postid-11492 .optin_appetiser_dark {
+    background: linear-gradient(90deg, #ff3862, #ff6082)
+}
+
+@media only screen and (min-width:1440px) {
+    .postid-11492 .extended-img.right-extend .gdlr-core-image-item {
+        width: 210%
+    }
+
+    .postid-11492 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -135%
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .postid-11492 .roamni_header_title {
+        margin-top: 0
+    }
+}
+
+@media(min-width:679px) and (min-width:1024px) {
+    .postid-11492 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -121%
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+    .postid-11492 .gdlr-core-personnel-style-grid .gdlr-core-personnel-list-column {
+        min-height: 251px
+    }
+
+    .postid-11492 .roamni_header_title {
+        margin-top: -110px
+    }
+
+    .postid-11492 .extended-img.right-extend .gdlr-core-image-item {
+        margin-left: -300px;
+        width: 250%
+    }
+
+    .postid-11492 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -100%;
+        width: 250%
+    }
+
+    .postid-11492 .roamni_body,
+    .postid-11492 .service-row {
+        margin-top: -1px
+    }
+
+    .postid-11492 .layout_full_ipad .gdlr-core-pbf-column {
+        width: 100%
+    }
+
+    .postid-11492 .ipad_center {
+        margin-bottom: 100px;
+        margin-top: -140px;
+        padding-left: 139px;
+        padding-top: 0;
+        width: 91%
+    }
+
+    .postid-11492 .ipad_margin_top {
+        margin-top: -100px !important
+    }
+}
+
+@media(min-width:769px) and (max-width:1024px) {
+    .postid-11492 .roamni_body_text p {
+        padding-right: 100px
+    }
+
+    .postid-11492 .ipad-enlarge-vello-container {
+        margin-left: -10.5%;
+        width: 125%
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .postid-11492 #gdlr-core-title-item-6 .gdlr-core-title-item-title {
+        font-size: 25px !important
+    }
+}
+
+@media(min-width:501px) and (max-width:540px) {
+    .postid-11492 .extended-img.right-extend .gdlr-core-image-item {
+        margin-left: 0;
+        width: 165%
+    }
+
+    .postid-11492 .ipad_center {
+        padding-left: 80px;
+        padding-top: 60px
+    }
+
+    .postid-11492 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -69%;
+        width: 178%
+    }
+
+    .postid-11492 .order2 img {
+        height: auto;
+        margin-left: -20px;
+        max-width: 130%;
+        width: 200%
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .postid-11492 .ipad_center {
+        margin-bottom: 50px !important
+    }
+
+    .postid-11492 .order2 .gdlr-core-image-item.gdlr-core-item-pdb.gdlr-core-left-align.gdlr-core-item-pdlr {
+        margin-left: -50px;
+        width: 200%
+    }
+
+    .postid-11492 .extended-img.right-extend .gdlr-core-image-item {
+        margin-left: -30px;
+        width: 185%
+    }
+
+    .postid-11492 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -89%;
+        width: 200%
+    }
+
+    .postid-11492 .roamni_header_title {
+        margin-top: 0
+    }
+
+    body.postid-11492 .ipad_center img {
+        margin-left: 40px !important
+    }
+
+    .postid-11492 .ipad_center {
+        margin-left: 0;
+        padding-left: 0;
+        padding-top: 85px
+    }
+
+    .postid-11492 .optin_appetiser_dark .gdlr-core-text-box-item-content div {
+        font-size: 20px !important
+    }
+
+    body.postid-11492 .mobile-title .gdlr-core-title-item-title-wrap h3 {
+        font-size: 56px !important
+    }
+
+    .postid-11492 p {
+        font-size: 16px !important
+    }
+
+    .postid-11492 h3.gdlr-core-title-item-title.gdlr-core-skin-title {
+        font-size: 30px !important
+    }
+
+    .postid-11492 .roamni_header_title {
+        padding-bottom: 10px !important
+    }
+
+    .postid-11492 .roamni_body img {
+        clear: both;
+        float: left !important;
+        margin: 0 !important;
+        text-align: left;
+        width: 100%
+    }
+
+    .postid-11492 .roamni_body a {
+        display: inline-table !important;
+        float: left !important;
+        padding-right: 10px;
+        text-align: left !important;
+        width: 50%
+    }
+}
+
+@media only screen and (max-width:540px) {
+    .postid-11492 .ipad_center {
+        margin-left: -5% !important;
+        width: 110% !important
+    }
+}
+
+@media(min-width:540px) and (max-width:768px) and (min-width:540px) and (max-width:767px) {
+    .postid-11492 .order {
+        margin: 60px 0 0 60px !important
+    }
+
+    .postid-11492 .order .order2 img {
+        height: auto;
+        margin-left: -50px;
+        max-width: 130%;
+        width: 200%
+    }
+}
+
+@media(min-width:540px) and (max-width:768px) {
+    .postid-11492 .order1 .gdlr-core-pbf-element {
+        margin-left: -25px
+    }
+}
+
+@media(min-width:769px) and (max-width:1024px) {
+    .postid-11492 .gdlr-core-pbf-column-content-margin.gdlr-core-js.ipad-pro-padding {
+        padding: 15px 0 0 50px !important
+    }
+}
+
+@media only screen and (width:540px) {
+    .postid-11492 .ipad_center {
+        margin-left: 3% !important;
+        width: 90% !important
+    }
+
+    .postid-11492 .roamni_header_title {
+        margin-top: -60px !important
+    }
+}
+
+@media only screen and (max-width:350px) {
+
+    .postid-11492 .order,
+    .postid-11492 .roamni_body {
+        margin-top: -20px !important
+    }
+
+    .postid-11492 .roamni_body .order2 {
+        margin-top: -40px !important
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .postid-11492 .roamni_header_title {
+        margin-top: -10px
+    }
+}
+/* This code is from customise.css */

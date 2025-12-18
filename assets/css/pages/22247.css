@@ -1,0 +1,228 @@
+/* This code is from customise.css */
+/*custom web design*/
+.page-id-22247 .section1-text h3 {
+    font-size: 50px;
+}
+
+.page-id-22247 .section1-text p {
+    font-size: 22px;
+}
+
+.page-id-22247 .text-section h3 {
+    font-size: 50px;
+}
+
+.page-id-22247 .text-section p {
+    font-size: 22px;
+}
+
+.page-id-22247 .partner-text p {
+    font-size: 22px;
+}
+
+.page-id-22247 #our-clients-love-us .home-testi .gdlr-core-pbf-background {
+    background-size: 472px !important;
+}
+
+.page-id-22247 .gdlr-core-page-builder-body a {
+    color: #0070c9;
+}
+
+.page-id-22247 .gdlr-core-column-service-item .gdlr-core-column-service-title {
+    color: #000;
+}
+
+.page-id-22247 .webdev_column_icon img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .page-id-22247 .card p {
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 0;
+    }
+
+    .page-id-22247 #our-clients-love-us .home-testi .gdlr-core-pbf-background {
+        background-size: 410px !important;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+
+    .page-id-22247 .card .gdlr-core-text-box-item-content {
+        padding: 30px 20px 0;
+    }
+
+    .page-id-22247 .card {
+        margin: 0 15px;
+        border-radius: 10px;
+        min-height: 268px;
+    }
+
+    .page-id-22247 .card * {
+        color: #fff !important;
+    }
+
+    .page-id-22247 .card1 {
+        background: linear-gradient(#1367e2, #4f3cc6);
+    }
+
+    .page-id-22247 .card2 {
+        background: linear-gradient(#713cc6, #4f3cc6);
+    }
+
+    .page-id-22247 .card {
+        min-height: 100px;
+    }
+
+    .page-id-22247 .card h3 {
+        font-size: 53px;
+    }
+
+    .page-id-22247 .card h5 {
+        font-size: 23px;
+    }
+
+    .page-id-22247 .card h4 {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .page-id-22247 #gdlr-core-title-item-7 .gdlr-core-title-item-title {
+        font-size: 36px !important;
+    }
+
+    .page-id-22247 .webdev_column_icon img {
+        width: 75%;
+    }
+
+    .page-id-22247 .webdev_column_icon h3.gdlr-core-column-service-title.gdlr-core-skin-title {
+        font-size: 21px !important;
+    }
+
+    .page-id-22247 .gdlr-core-column-service-item .gdlr-core-column-service-content {
+        font-size: 18px !important;
+    }
+
+    .page-id-22247 .partner-text p,
+    .page-id-22247 .text-section p {
+        font-size: 20px;
+    }
+
+    .page-id-22247 .text-section h3 {
+        font-size: 36px !important;
+    }
+
+    .page-id-22247 .header_2 {
+        width: 100%;
+        margin: -20px 0 0 -12% !important;
+        max-width: 189% !important;
+        min-height: auto !important;
+        width: 124% !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .page-id-22247 .card h3 {
+        font-size: 40px;
+    }
+
+    .page-id-22247 .card h5 {
+        font-size: 22px;
+    }
+
+    .page-id-22247 .card h4 {
+        font-size: 22px;
+    }
+
+    .page-id-22247 .header_2 .gdlr-core-image-item-wrap img {
+        width: 100%;
+    }
+
+    .page-id-22247 .web-app-section1 .section1-text h2 {
+        font-size: 36px;
+    }
+
+    .page-id-22247 .section1-text p {
+        font-size: 20px;
+    }
+
+    .page-id-22247 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -135%;
+        width: 250%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .page-id-22247 #contact .gdlr-core-pbf-background {
+        background-position: calc(20% + 50px) !important;
+    }
+}
+
+@media only screen and (min-width: 1366px) {
+    .page-id-22247 .title2.gdlr-core-title-item .gdlr-core-title-item-title {
+        font-size: 75px !important;
+        margin-top: 15px;
+    }
+
+    .page-id-22247 .headline-bold.gdlr-core-title-item .gdlr-core-title-item-title {
+        font-size: 36px !important;
+    }
+
+    .page-id-22247 #contact .title2.gdlr-core-title-item .gdlr-core-title-item-title {
+        font-size: 50px !important;
+    }
+
+    .page-id-22247 .extended-img.left-extend .gdlr-core-image-item {
+        margin-left: -125%;
+        width: 220%;
+    }
+
+    .page-id-22247 .headline-bold.gdlr-core-title-item .gdlr-core-title-item-title {
+        max-width: 600px;
+    }
+
+    .page-id-22247 #contact .gdlr-core-pbf-background {
+        background-position: calc(80% + 20px) !important;
+        background-size: contain !important;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    .page-id-22247 #contact .gdlr-core-pbf-background {
+        background-position: calc(58% + 20px) !important;
+        background-size: contain !important;
+    }
+
+    .page-id-22247 .extended-img.right-extend .gdlr-core-image-item {
+        margin-right: -150%;
+        width: 211%;
+    }
+
+    .page-id-22247 .img-scale {
+        scale: 1.188;
+    }
+
+    .page-id-22247 .gdlr-core-image-item.gdlr-core-item-pdb.gdlr-core-center-align.img-mobile-stretch.gdlr-core-item-pdlr {
+        width: 118.3% !important;
+        margin-left: -10%;
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    .page-id-22247 #contact .gdlr-core-pbf-background {
+        background-position: calc(55%) !important;
+        background-size: contain !important;
+    }
+}
+
+@media only screen and (min-width: 3440px) {
+    .page-id-22247 #contact .gdlr-core-pbf-background {
+        background-position: calc(53%) !important;
+        background-size: contain !important;
+    }
+}
+
+/* This code is from customise.css */

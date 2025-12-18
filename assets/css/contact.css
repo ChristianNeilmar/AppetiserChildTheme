@@ -1,0 +1,73 @@
+.iti.iti--allow-dropdown.iti--separate-dial-code .phone-validation.invalid:last-child,
+.phone-validation.valid {
+    display: none;
+}
+
+.phone-validation.invalid {
+    display: block;
+    background: var(--wp--preset--color--pale-pink);
+    border: 1px solid var(--wp-preset-color-vivid-red);
+    color: var(--wp--preset--color--black);
+    text-align: center;
+}
+
+.contact-y23.cro .hs_phone {
+    margin-bottom: 40px;
+}
+
+.contact-y23.cro .hs_phone .hs-fieldtype-intl-phone.hs-input select {
+    float: left;
+    width: 15% !important;
+    padding-left: 10px;
+}
+
+.contact-y23.cro input[type=tel] {
+    width: 83% !important;
+}
+
+.iti__flag-container:nth-of-type(2) {
+    display: none;
+}
+
+.iti--separate-dial-code {
+    display: flex;
+    width: 100%;
+}
+
+.iti--separate-dial-code .iti__flag-container {
+    flex-shrink: 0;
+}
+
+.iti--separate-dial-code .iti__selected-flag {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.iti--separate-dial-code:nth-child(2) .iti__flag-container {
+    display: none;
+}
+
+.phone-validation {
+    display: none;
+    background: var(--wp--preset--color--pale-pink);
+    border: 1px solid var(--wp--preset--color--vivid-red);
+    border-radius: 16px;
+    margin-block-end: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.contact-y23 .contact-form .hs_submit input:disabled,
+.contact-y23 .contact-form .hs_submit input:disabled:hover,
+.contact-y23 .contact-form .hs_submit input:disabled:focus,
+.contact-y23 .contact-form .hs_submit input:disabled:active {
+    opacity: 0.2;
+}
+
+.phone-validation.invalid {
+    display: block;
+    background: var(--wp--preset--color--pale-pink);
+    border: 1px solid var(--wp--preset--color--vivid-red);
+    color: var(--wp--preset--color--black);
+    text-align: center;
+}

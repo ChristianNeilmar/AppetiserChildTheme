@@ -1,0 +1,145 @@
+.cro-b-xxx {
+    display: none;
+}
+
+.slider {
+    height: 60px;
+    position: relative;
+    width: 100%;
+
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+
+.slider::before,
+.slider::after {
+    position: absolute;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    content: '';
+    height: 100%;
+    width: 25%;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.slider::before {
+    left: 0;
+    top: 0;
+}
+
+.slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg);
+}
+
+/*  IMPORTANT CODE BELOW */
+
+.slide-track {
+    width: calc(150px * 20);
+    display: flex;
+    animation: scroll 20s linear infinite;
+    justify-content: space-between;
+}
+
+.slide-track2 {
+    width: calc(150px * 15);
+    display: flex;
+    animation: scroll2 15s linear infinite;
+    justify-content: space-between;
+}
+
+.slide {
+    width: 150px;
+    height: 60px;
+
+    display: grid;
+    place-items: center;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.slide:hover {
+    transform: scale(0.8)
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0px);
+    }
+
+    100% {
+        transform: translateX(calc(-150px * 10));
+    }
+}
+
+@keyframes scroll2 {
+    0% {
+        transform: translateX(0px);
+    }
+
+    100% {
+        transform: translateX(calc(-150px * 5));
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .slide-track {
+        width: calc(80px * 20);
+    }
+
+    .slide-track2 {
+        width: calc(80px * 15);
+    }
+
+    .slide {
+        width: 80px;
+    }
+
+    @keyframes scroll {
+        0% {
+            transform: translateX(0px);
+        }
+
+        100% {
+            transform: translateX(calc(-80px * 10));
+        }
+    }
+
+    @keyframes scroll2 {
+        0% {
+            transform: translateX(0px);
+        }
+
+        100% {
+            transform: translateX(calc(-80px * 5));
+        }
+    }
+}
+
+.contact-ct iframe form label {
+    display: none;
+}
+
+/* This code is from customise.css */
+.page-id-14394 .iti__selected-flag {
+    z-index: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 78%;
+    padding: 0 6px 0 8px;
+}
+
+.page-id-14394 .iti.iti--allow-dropdown {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.page-id-14394 .contact-y23 input[type=tel] {
+    width: 100% !important;
+    margin-bottom: 20px !important;
+}
+
+/* This code is from customise.css */

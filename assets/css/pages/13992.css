@@ -1,0 +1,14 @@
+ /* This code is from customise.css */
+ /* ON GOING CRO - Custom App Development (Tech Stack) */
+
+ .page-id-13992 .cro-techstack-v1 {
+     display: none;
+ }
+
+ @media only screen and (max-width: 540px) {
+     .page-id-13992 .cro-techstack-v1 h3 {
+         padding: 0 30px;
+     }
+ }
+
+ /* This code is from customise.css */

@@ -1,0 +1,33 @@
+<!-- 
+czar-flexmasonry-testimonial-fix.html 
+Add HTML code to the header or the footer.
+For example, you can use the following code for loading the jQuery library from Google CDN:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+or the following one for loading the Bootstrap library from MaxCDN:
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+-- End of the comment -->
+
+<link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">
+<script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>
+<script>
+    (function ($) {
+        console.log('scroll');
+        $(".title-fade").each(function () {
+            console.log('test');
+        });
+        /*
+        $(window).scroll(function() {
+            $(".title-fade").each(function(){
+                var topDistance = $(this).offset().top;
+                console.log(topDistance+" "+$(window).scrollTop());
+                if ( (topDistance - 250	) < ($(window).scrollTop() ) ) {
+                    $(this).css("opacity", 1240 - $(window).scrollTop() / 652	);
+                    console.log('triger');
+                }else{
+                    $(this).css("opacity","1" );
+                }
+            });
+        })	;
+        */
+    })(jQuery);
+</script>

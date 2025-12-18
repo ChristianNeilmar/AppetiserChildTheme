@@ -1,0 +1,98 @@
+/*Amazed - Portfolio - Marco*/
+
+/*.amazed-founder-container {
+	margin-left:-20%;
+	margin-top:-12%;
+}*/
+
+.amazed-founder-img {
+    padding: 0px;
+    width: 665px;
+}
+
+.amazed-sub-header-text {
+    line-height: 38px;
+}
+
+.amazed-power-to-grow-title {
+    max-width: 550px;
+}
+
+.amazed-book-btn {
+    z-index: 300;
+}
+
+
+.amazed-places-mobile-fix img {
+    width: 150%;
+}
+
+
+@media (max-width: 1024px) {
+    .amazed-founder-wrapper .gdlr-core-pbf-wrapper-container.clearfix.gdlr-core-container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .amazed-founder-img {
+        padding: 0px;
+        width: 100%;
+    }
+
+    .amazed-power-to-grow-title {
+        max-width: 100%;
+    }
+
+    .amazed-footer-title h2 {
+        font-size: 50px !important;
+    }
+
+}
+
+/** end of 1024px **/
+
+
+@media (max-width: 768px) {
+    .amazed-bottom-cta-banner-title h2.gdlr-core-title-item-title.gdlr-core-skin-title {
+        font-weight: 700;
+        font-size: 36px !important;
+        line-height: 42px !important;
+    }
+
+
+    .amazed-book-btn {
+        width: 80% !important;
+        margin: 0 auto !important;
+    }
+
+
+    .amazed-book-btn a {
+        padding: 20px !important;
+    }
+
+
+    .amazed-footer-title h2 {
+        line-height: 46px !important;
+        font-size: 38px !important;
+        letter-spacing: -2px !important;
+    }
+
+    .amazed-cta-ipad h2 {
+        color: #ffffff !important;
+    }
+
+
+    .amazed-staggered-mobile {
+        left: 240px !important;
+    }
+
+}
+
+/** end of 768px **/
+
+
+@media only screen and (max-width: 767px) and (min-width: 400px) {
+    .amazed-mobile-banner-fix {
+        min-height: 600px !important;
+    }
+}

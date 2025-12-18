@@ -1,0 +1,9 @@
+.web_services .gdlr-core-column-20 {
+    width: 50%;
+}
+
+@media only screen and (max-width: 767px) {
+    .web_services .gdlr-core-column-20 {
+        width: 100%;
+    }
+}

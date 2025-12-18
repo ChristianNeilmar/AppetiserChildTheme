@@ -1,0 +1,336 @@
+/* This code is from customise.css */
+.page-id-25110 .title-2 .gdlr-core-title-item-title {
+    letter-spacing: -1.5px
+}
+
+.page-id-25110 .subheadline .gdlr-core-text-box-item-content {
+    letter-spacing: -.5px
+}
+
+.page-id-25110 .hero-banner .banner-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 1120px
+}
+
+.page-id-25110 .section-logo-slide .title-2 .gdlr-core-title-item-caption {
+    letter-spacing: -.5px;
+    line-height: 40px
+}
+
+.page-id-25110 .inno-section .subheadline .gdlr-core-text-box-item-content div {
+    margin-bottom: 46px
+}
+
+.page-id-25110 .inno-section .cursive-title .gdlr-core-title-item-title {
+    font-family: Architects Daughter
+}
+
+.page-id-25110 .inno-section .button-container .gdlr-core-button {
+    letter-spacing: -.5px
+}
+
+.page-id-25110 .team-banner .banner-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 1180px
+}
+
+.page-id-25110 .guide-section .iphone-screen-mobile {
+    display: none
+}
+
+.page-id-25110 .guide-section .image-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 675px
+}
+
+.page-id-25110 .guide-section .content-container .callout {
+    max-width: 586px
+}
+
+.page-id-25110 .guide-section .content-container .gdlr-core-title-item-title {
+    letter-spacing: -1.5px
+}
+
+.page-id-25110 .guide-section .content-container .gdlr-core-pbf-element:nth-child(3) {
+    clear: none;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    max-width: 300px
+}
+
+.page-id-25110 .guide-section .content-container .gdlr-core-pbf-element:nth-child(4) {
+    clear: none;
+    float: left;
+    max-width: 300px
+}
+
+.page-id-25110 .engr-section .banner-container img {
+    margin-left: -100%;
+    margin-right: -100%;
+    max-width: 1290px
+}
+
+.page-id-25110 .results-section .gdlr-core-text-box-item-content div {
+    margin-bottom: 46px
+}
+
+.page-id-25110 .contact-section .title-1 .gdlr-core-title-item-title {
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(129deg, #ffbc00, #ed9d05);
+    background-clip: text;
+    -webkit-background-clip: text
+}
+
+.page-id-25110 .form-section {
+    background: #efeff3
+}
+
+.page-id-25110 footer {
+    margin-top: -10em
+}
+
+@media only screen and (max-width:1280px) {
+    .page-id-25110 .guide-section .image-container img {
+        margin-left: -120% !important
+    }
+}
+
+@media only screen and (max-width:999px) {
+    .page-id-25110 .title-1 .gdlr-core-title-item-title {
+        font-size: 50px !important;
+        letter-spacing: -2px !important;
+        line-height: 54px !important
+    }
+
+    .page-id-25110 .title-2 .gdlr-core-title-item-title {
+        font-size: 38px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-25110 .headline .gdlr-core-text-box-item-content {
+        font-size: 21px !important;
+        letter-spacing: 0 !important;
+        line-height: 24px !important
+    }
+
+    .page-id-25110 .subheadline .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        letter-spacing: 0 !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .callout .gdlr-core-text-box-item-content,
+    .page-id-25110 .callout p {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .callout p {
+        text-align: left
+    }
+
+    .page-id-25110 .hero-section .gdlr-core-pbf-column-content {
+        max-width: 632px !important
+    }
+
+    .page-id-25110 .hero-banner .banner-container img {
+        max-width: 700px
+    }
+
+    .page-id-25110 .section-logo-slide .title-2 .gdlr-core-title-item-caption {
+        font-size: 21px !important;
+        letter-spacing: 0 !important;
+        line-height: 24px !important
+    }
+
+    .page-id-25110 .team-banner .banner-container img {
+        max-width: 816px
+    }
+
+    .page-id-25110 .inno-section .subheadline .gdlr-core-text-box-item-content div {
+        margin-bottom: 32px
+    }
+
+    .page-id-25110 .inno-section .button-container .gdlr-core-pbf-column-content,
+    .page-id-25110 .inno-section .dear-container .gdlr-core-pbf-column-content {
+        max-width: 525px !important
+    }
+
+    .page-id-25110 .inno-section .button-container .gdlr-core-button {
+        font-size: 21px !important;
+        letter-spacing: 0 !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .inno-section .cursive-title .gdlr-core-title-item-title {
+        font-size: 40px !important;
+        line-height: 48px !important
+    }
+
+    .page-id-25110 .guide-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 466px !important
+    }
+
+    .page-id-25110 .guide-section .content-container .gdlr-core-pbf-column-content {
+        max-width: 504px !important
+    }
+
+    .page-id-25110 .guide-section .content-container .emblems-desktop {
+        display: none
+    }
+
+    .page-id-25110 .guide-section .tablet-banner .gdlr-core-pbf-column-content {
+        max-width: 504px !important
+    }
+
+    .page-id-25110 .engr-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 516px !important
+    }
+
+    .page-id-25110 .engr-section .banner-container img {
+        max-width: 660px
+    }
+
+    .page-id-25110 .gold-section .gdlr-core-pbf-column-content,
+    .page-id-25110 .results-section .gdlr-core-pbf-column-content,
+    .page-id-25110 .scale-section .title-container .gdlr-core-pbf-column-content {
+        max-width: 516px !important
+    }
+
+    .page-id-25110 .results-section .gdlr-core-text-box-item-content div {
+        margin-bottom: 32px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .page-id-25110 #darkbrand-carousel .wwith-slider {
+        animation: testxx 700s linear infinite !important;
+        -webkit-animation: testxx 700s linear infinite !important;
+        -moz-animation: testxx 700s linear infinite !important;
+        -ms-animation: testxx 700s linear infinite !important;
+        -o-animation: testxx 700s linear infinite !important;
+        height: 66px !important
+    }
+
+    .page-id-25110 .title-1 .gdlr-core-title-item-title {
+        font-size: 38px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important
+    }
+
+    .page-id-25110 .title-2 .gdlr-core-title-item-title {
+        font-size: 28px !important;
+        letter-spacing: -1px !important;
+        line-height: 42px !important
+    }
+
+    .page-id-25110 .callout .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .hero-section .title-1 .gdlr-core-title-item-title {
+        font-size: 41px !important;
+        letter-spacing: -2px !important;
+        line-height: 46px !important;
+        text-align: left
+    }
+
+    .page-id-25110 .hero-section .subheadline .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        letter-spacing: 0 !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .hero-section .subheadline .gdlr-core-text-box-item-content p {
+        text-align: left !important
+    }
+
+    .page-id-25110 .hero-banner .banner-container-mobile img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 364px
+    }
+
+    .page-id-25110 .section-logo-slide .slider-title-container .gdlr-core-title-item-title {
+        margin-left: 30px;
+        margin-right: 30px
+    }
+
+    .page-id-25110 .guide-section .tablet-banner {
+        display: none
+    }
+
+    .page-id-25110 .guide-section .emblems-desktop {
+        display: block !important;
+        margin-bottom: 40px !important
+    }
+
+    .page-id-25110 .guide-section .iphone-screen-mobile {
+        display: block !important
+    }
+
+    .page-id-25110 .guide-section .iphone-screen-mobile img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 364px
+    }
+
+    .page-id-25110 .guide-section .content-container .callout {
+        margin-bottom: 40px
+    }
+
+    .page-id-25110 .guide-section .content-container .gdlr-core-pbf-element:nth-child(3),
+    .page-id-25110 .guide-section .content-container .gdlr-core-pbf-element:nth-child(4) {
+        clear: both;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 300px
+    }
+
+    .page-id-25110 .inno-section .subheadline .gdlr-core-text-box-item-content {
+        font-size: 21px !important;
+        line-height: 27px !important
+    }
+
+    .page-id-25110 .team-banner .banner-container img {
+        max-width: 540px
+    }
+
+    .page-id-25110 .engr-section .banner-container-mobile img {
+        margin-left: -100%;
+        margin-right: -65%;
+        max-width: 694px
+    }
+
+    .page-id-25110 .pr-cards-section .banner-container-mobile img {
+        margin-left: -100%;
+        margin-right: -100%;
+        max-width: 420px
+    }
+
+    .page-id-25110 .results-section .gdlr-core-text-box-item-content {
+        font-size: 20px !important;
+        line-height: 32px !important
+    }
+
+    .page-id-25110 .gold-section .text-container p {
+        text-align: left !important
+    }
+
+    .page-id-25110 .form-section {
+        background: #000
+    }
+
+    .page-id-25110 .form-section .contact-y23 {
+        margin-left: 0 !important;
+        margin-right: 0 !important
+    }
+}
+/* This code is from customise.css */

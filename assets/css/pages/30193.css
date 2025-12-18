@@ -1,0 +1,82 @@
+@media only screen and (min-width:1366px) {
+    .fixed-glossary {
+        position: fixed;
+        top: 79px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        background: #fff;
+    }
+}
+
+
+/*hide letters */
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */
+
+
+/** J, Q, V, X, Y, Z **/
+/*Glossary things  * */
+
+
+.J-wrapper {
+    display: none;
+}
+
+.J.-index,
+.J.-index:hover {
+    color: #ccc;
+}
+
+.Q-wrapper {
+    display: none;
+}
+
+.Q.-index,
+.Q.-index:hover {
+    color: #ccc;
+}
+
+.V-wrapper {
+    display: none;
+}
+
+.V.-index,
+.V.-index:hover {
+    color: #ccc;
+}
+
+.X-wrapper {
+    display: none;
+}
+
+.X.-index,
+.X.-index:hover {
+    color: #ccc;
+}
+
+.Y-wrapper {
+    display: none;
+}
+
+.Y.-index,
+.Y.-index:hover {
+    color: #ccc;
+}
+
+.Z-wrapper {
+    display: none;
+}
+
+.Z.-index,
+.Z.-index:hover {
+    color: #ccc;
+}

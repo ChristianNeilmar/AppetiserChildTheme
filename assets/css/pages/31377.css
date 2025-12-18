@@ -1,0 +1,85 @@
+.gdlr-core-price-table-column .gdlr-core-price-table {
+    min-height: 288px;
+}
+
+.licenses-section .gdlr-core-price-table .gdlr-core-price-table-button {
+    border: 1px solid #000 !important;
+}
+
+@media (min-width:768px) and (max-width:1280px){
+.licenses-section .pt-container .gdlr-core-price-table-column {
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media only screen and (min-width:1366px){
+#gdlr-core-price-table-1 .gdlr-core-price-table.gdlr-core-active .gdlr-core-price-table-button {
+    margin-top: 60px;
+}
+}
+
+
+
+
+@media only screen and (min-width:1280px){
+div#gdlr-core-price-table-1 {
+    display: flex;
+    justify-content: center;
+}
+div#gdlr-core-price-table-1
+.gdlr-core-price-table-column{
+width: 25%;
+} 
+}
+
+
+#gdlr-core-price-table-1 .gdlr-core-price-table .gdlr-core-price-table-title {
+    
+    letter-spacing: -1px;
+}
+
+.licenses-section .gdlr-core-price-table .gdlr-core-price-suffix {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    margin-left: 5px;
+}
+.gdlr-core-price-table-item.gdlr-core-style-2 .gdlr-core-price-table-price-number{
+letter-spacing:1px;
+}
+
+.extender-right {
+    margin-left: 100px;
+}
+
+
+.licenses-section .gdlr-core-price-table .gdlr-core-price-table-button {
+  border: 1px solid #000 !important;
+}
+.licenses-section .gdlr-core-price-table:last-child {
+  border: none !important;
+}
+.licenses-section .gdlr-core-price-table .gdlr-core-price-table-price-number {
+  letter-spacing: -1.5px;
+}
+.licenses-section .gdlr-core-price-table .gdlr-core-price-suffix {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  margin-left: 5px;
+}
+
+@media (min-width:768px) and (max-width:1280px){
+.gdlr-core-price-table-column {
+    width: 50%;
+    margin-bottom: 30px;
+}
+div#gdlr-core-price-table-1 {
+    display: inline-flex;
+    flex-basis: content;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 5%;
+}
+}
