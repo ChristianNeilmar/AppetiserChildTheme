@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The template for displaying the footer test
+ * The template for displaying the footer test 7
  */
 
 $post_option = infinite_get_post_option(get_the_ID());
