@@ -17,6 +17,7 @@ if (empty($post_option['enable-copyright']) || $post_option['enable-copyright'] 
 }
 
 $fixed_footer = infinite_get_option('general', 'fixed-footer', 'disable');
+// test10
 echo '</div>'; // infinite-page-wrapper
 
 if ($enable_footer == 'enable' || $enable_copyright == 'enable') {
