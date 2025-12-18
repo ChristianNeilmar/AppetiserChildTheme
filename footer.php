@@ -9,6 +9,7 @@ if (empty($post_option['enable-footer']) || $post_option['enable-footer'] == 'de
 	$enable_footer = infinite_get_option('general', 'enable-footer', 'enable');
 } else {
 	$enable_footer = $post_option['enable-footer'];
+	// test9
 }
 if (empty($post_option['enable-copyright']) || $post_option['enable-copyright'] == 'default') {
 	$enable_copyright = infinite_get_option('general', 'enable-copyright', 'enable');
